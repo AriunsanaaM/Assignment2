@@ -1,0 +1,450 @@
+.custom-navbar{
+    padding: 20px 0;
+}
+
+.finsweet-brand{
+    font-size: 1.8rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(12, 19, 63);
+}
+
+.finsweet-brand:hover{
+    color: rgb(12, 19, 63);
+}
+
+#nav-button{
+    background-color: rgb(221, 179, 150);
+    border-radius: 30px;
+}
+
+.heading1-logos ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-family:'Poppins', sans-serif;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+.header-section{
+    background-color: #edf7ff;
+}
+.main-header{
+    display: flex;
+}
+
+.heading1-buttons ul li a{
+    text-decoration: none;
+}
+
+.heading1-buttons ul li{
+    list-style: none;
+}
+
+.heading1-buttons ul{
+    display: flex;
+    padding: 30px 0px;
+}
+
+.our{
+    color: #ffffff;
+    background-color: #f58a07;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+
+.all{
+    padding-left: 20px;
+    color: black;
+}
+
+.heading1 h1{
+    padding-top: 100px;
+    margin-bottom: 0px;
+    font-size: 55px;
+    color: rgba (5, 0, 20, .9);
+}
+
+.heading1 p{
+    margin-top: 0px;
+    padding-top: 10px;
+    font-size: 1.3rem;
+    color: rgba(51, 50, 48, 0.7);
+}
+
+.workedwith{
+    color: rgba(53, 51, 48, 0.3);
+    font-size: 1.2rem;
+}
+
+.section-title{
+    max-width: 1280px;
+    margin: auto;
+}
+
+.post img{
+    border-radius: 20px;
+}
+
+.post{
+    padding: 0 px 15px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.section-title h2{
+    font-size: 40px;
+    color: rgb(18, 2, 78);
+}
+
+.section-title p{
+    margin-top: 0px;
+    padding-top: 10px;
+    font-size: 1.3rem;
+    color: rgba(51, 50, 48, 0.7);
+}
+
+.post .more{
+    color: rgb(228, 149, 92);
+}
+
+.post p{
+    padding: 0px 20px 0px 0px;
+    font-size: 20px;
+    color: dimgrey;
+}
+
+.post h3{
+    font-size: 25px;
+}
+
+.more{
+    padding-bottom: 70px;
+}
+
+.third-section{
+    background-color: #edf7ff;
+    padding-top: 50px;
+}
+
+.third-section-title{
+   max-width: 1280px;
+   margin: auto;
+}
+
+.third-section-title p{
+    font-size: 20px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.third-section-title h2{
+    padding-right: 25px;
+    font-size: 2.5rem;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.service-item{
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 80px;
+}
+
+.business-service h3{
+    font-size: 25px;
+    padding: 0px 40px 0px 40px;
+}
+
+.business-service p{
+    padding: 0px 40px;
+}
+
+.business-service{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.fourth-section{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.fourth-section h3{
+    font-size: 45px;
+}
+
+.too-barimt{
+    display: flex;
+}
+
+.too-barimt h4{
+    color: #f58a07;
+}
+
+.too-barimt .awards{
+    padding-right: 10px;
+}
+
+.too-barimt .clients{
+    padding-left: 10px;
+}
+
+.fourth-section .right-side::before{
+    content:" ";
+    background-color: rgba(245, 138, 7, 0.7); 
+    width: 150px;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.fourth-section .right-side{
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.fourth-section .right-side img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.fourth-section .left-side{
+    margin-right: 50px;
+}
+
+.fourth-section{
+    margin-bottom: 50px;
+}
+
+.service{
+    background: #edf7ff;
+    position: relative;
+    display: flex;
+    /* max-width: 1280px; */
+    margin: auto;
+    border-radius: 30px;
+}
+
+.service .content{
+    flex-direction: row;
+}
+
+.service ul{
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+    justify-content: left;
+}
+
+.service .service-buttons ul li{
+    font: bold;
+    border-radius: 30px;
+    border: solid 1px lightblue;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    color: rgb(85, 89, 94);
+}
+
+.service .content .service-img{
+    width: 50%;
+}
+
+.service .service-header ul li:first-child{
+    background: rgb(255, 255, 255);
+    border: none;
+    color: #f58a07;
+}
+
+.service-content{
+    padding: 30px 10px 50px 55px;
+}
+
+.service-header{
+    padding-left: 45px;
+}
+
+.service-img{
+    position: relative;
+}
+
+.service-content h3{
+    font-size: 40px;
+}
+
+.service-content p{
+    color: rgb(78, 83, 88);
+    font: bold;
+}
+
+.service .ribbon{
+    position: absolute;
+    right: -15px;
+    top: -15px;
+}
+
+.service-content .see-all-services{
+    color: #f58a07;
+    padding-top: 30px;
+    font: bold;
+}
+.service-img{
+    overflow: hidden;
+    border-radius: 20px;
+}
+.service-img::before{
+    content: " ";
+    width: 120px;
+    height: 467px;
+    background-color: rgba(245, 138, 7, .8);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.job{
+    height: calc(100vh/2);
+    margin-top: 110px;
+    background-color: #f58a07;
+    position: relative;
+}
+
+.job-content-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.job .job-content{
+    height: 100%;
+}
+
+.job .job-content .experience{
+    font-size: 50px;
+    color: white;
+    margin: 80px 0 20px 60px;
+    font: bold;
+    justify-content: end;
+    max-width: 50%;
+}
+
+.job .job-content .vacancies{
+    border: solid white;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+    margin-left: 60px;
+    padding: 5px 20px;
+    color: #f58a07;
+    font: bold;
+}
+
+.job .job-img{
+    background-image: url(./images/experience-image.png);
+    position: absolute;
+    width: 50%;
+    height: 100%;
+}
+
+.dream-content img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.dream{
+    display: flex;
+    flex-direction: row;
+    width: 1280px;
+    margin: auto;
+    margin-top: 110px;
+}
+
+.dream-img{
+    width: 50%;
+    margin-bottom: 80px;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.dream-content h3{
+    font-size: 50px;
+    padding-right: 60px;
+    margin-bottom: 0px;
+}
+
+.dream-content p{
+    font: bold;
+    color: rgb(46, 37, 37);
+    margin-bottom: 50px;
+    margin-right: 80px;
+}
+
+.dream-content .neo{
+    font-size: 20px;
+    color: rgb(19, 19, 87);
+    font: bold;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.dream .profile{
+    display: flex;
+    flex-direction: row;
+}
+
+.dream-content .ceo{
+    color: #f58a07;
+    font: bold;
+    margin-top: 0px;
+}
+
+.dream-content .profile .profile-desc{
+    margin-left: 30px;
+}
+
+.dream .play-btn{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dream .play-btn::before{
+    content:" ";
+    background-color: white;
+    border-color: black;
+    border-radius: 50px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.dream .play-btn img{
+    position: relative;
+}
+
+.dream-img{
+    position: relative;
+}
+
+.dream .play-video{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+.dream .play-video p{
+    padding-left: 20px;
+    color: white;
+}
